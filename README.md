@@ -44,7 +44,7 @@ src/
    ```
 4. Access the terminal at `http://localhost:9001`.
 ## Deployment
-The project is container-ready with a root `Dockerfile` and `docker-compose.yml`. It is configured for deployment on Fly.io using the provided `fly.toml`.
+The project is container-ready with a root `Dockerfile` and `docker-compose.yml`. It can be configured for deployment on Fly.io using the provided `fly.toml`.
 ---
 *This system implements the v1.2.1-SEALED protocol for institutional decision purity.*
 
